@@ -8,7 +8,7 @@ Welcome to example-the-docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: xxFormats
+   :caption: Formats
 
    formats/admonitions
    formats/images
@@ -19,7 +19,7 @@ Welcome to example-the-docs's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: xxGuildlines
+   :caption: Guildlines
 
    guildlines/content
    guildlines/workflow
