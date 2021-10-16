@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Checkout 🛎️
         uses: actions/checkout@v2.3.1
-
+      - run: rm -rf build
       - uses: actions/setup-python@v2
         with:
           python-version: '3.8'
@@ -17,6 +17,8 @@ jobs:
 
       - name: Install required packages
         run: pip3 install sphinx==4.1.2 sphinx_rtd_theme==0.5.2
+
+      - run: make html
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@4.1.5
