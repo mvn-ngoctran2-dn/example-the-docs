@@ -21,8 +21,8 @@ Welcome to example-the-docs's documentation!
    :maxdepth: 2
    :caption: Guildlines
 
-   Guildlines/content
-   Guildlines/workflow
+   guildlines/content
+   guildlines/workflow
 
 
 Indices and tables
