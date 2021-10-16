@@ -15,6 +15,7 @@ Welcome to example-the-docs's documentation!
    formats/texts
    formats/codeblocks
    formats/tables
+   formats/hyperlinks
 
 
 .. toctree::

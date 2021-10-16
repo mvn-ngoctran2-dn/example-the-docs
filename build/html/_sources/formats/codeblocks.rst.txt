@@ -6,6 +6,8 @@ Key Goals
 
 Python
 -------
+.. _pythonCodeOptions:
+
 Here is some code.
 
 And here is some **python** more code in case it::
