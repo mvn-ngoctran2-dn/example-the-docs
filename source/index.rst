@@ -20,6 +20,7 @@ Welcome to example-the-docs's documentation!
 
 .. toctree::
    :maxdepth: 2
+   :hidden:
    :caption: Guildlines
 
    guildlines/content
