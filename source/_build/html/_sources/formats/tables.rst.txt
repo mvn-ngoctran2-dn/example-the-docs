@@ -3,7 +3,10 @@ Tables format
 
 Options
 --------
+.. _tableComparsion:
+
 .. table:: Comparison
+
 
     =================== =============== ===== ===========
     Platform            Self-Contained? Cost  Flexibility

@@ -25,4 +25,4 @@ Pointer to local link
 ~~~~~~~~~~~~~~~~~~~~~~
 If the remote branch :doc:`/guildlines/content` that you wish to deploy to doesn't already exist the :doc:`action be run </guildlines/workflow>` will create it for you. Your workflow will also need to include the actions/checkout step before this workflow runs in order for the deployment to work.
 
-For the detail please click :ref:`Python code section for coding <pythonCodeOptions>` .
+For the detail please click :ref:`Tables for comparison products <tableComparsion>` .
